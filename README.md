@@ -1,0 +1,4 @@
+- download uv 
+- go to the project "cd"
+- run uv sync 
+- then run the test.py in webcam test 
